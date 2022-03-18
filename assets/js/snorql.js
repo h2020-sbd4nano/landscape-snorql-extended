@@ -1,11 +1,11 @@
 
-var _endpoint = "https://nanosafety.rdf.bigcat-bioinformatics.org/sparql";
-var _examples_repo = "https://github.com/h2020-riskgone/SPARQLQueries";
+var _endpoint = "https://sbd4nanolandscape.rdf.bigcat-bioinformatics.org/sparql";
+var _examples_repo = "https://github.com/h2020-sbd4nano/SPARQLQueries";
 var _defaultGraph = "";
 var _namespaces = snorql_namespacePrefixes;
 
-var _poweredByLink = 'https://github.com/h2020-riskgone/nanosafety-snorql-extended';
-var _poweredByLabel = 'NanoSafety SNORQL';
+var _poweredByLink = 'https://github.com/h2020-sbd4nano/nanosafety-snorql-extended';
+var _poweredByLabel = 'SbD4Nano SNORQL';
 var _showLiteralType = false;
 
 function setCookie(cname, cvalue){
