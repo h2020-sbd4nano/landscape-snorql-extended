@@ -7,7 +7,7 @@
 footer{
     height: 70px;
     background-color: #FFFFFF;
-    color: #6E6F71;
+    color: #0e4c81;
 text-align: center;
 }
 
@@ -33,73 +33,73 @@ a:active {
 
 .btn-run {
     color: #343a40;
-    background-color: #9FC2BB;
+    background-color: #fd766a;
     border-color: #333;
 font-weight: bold;
 }
 .btn-run:hover {
     color: #fff;
-    background-color:#9FC2BB;
+    background-color:#fd766a;
     border-color: #333;
 font-weight: bold;
 }
 .btn-reset {
     color: #343a40;
-    background-color: #F27360;
+    background-color: #ffd6c3;
     border-color: #333;
 font-weight: bold;
 }
 .btn-reset:hover {
     color: #fff;
-    background-color:#F27360;
+    background-color:#ffd6c3;
     border-color: #333;
 font-weight: bold;
 }
 .btn-export {
     color: #343a40;
-    background-color: #FBE6E1;
+    background-color: #ff8d7e;
     border-color: #333;
 font-weight: bold;
 }
 .btn-export:hover {
     color: #fff;
-    background-color:#FBE6E1;
+    background-color:#ff8d7e;
     border-color: #333;
 font-weight: bold;
 }
 .btn-primary {
     color: #343a40;
-    background-color: #FBE6E1;
+    background-color: #ff8d7e;
     border-color: #333;
 font-weight: bold;
 }
 .btn-primary:hover {
     color: #fff;
-    background-color:#FBE6E1;
+    background-color:#ff8d7e;
     border-color: #333;
 font-weight: bold;
 }
 .btn-permalink {
     color: #343a40;
-    background-color: #9AAABA;
+    background-color: #0b6094;
     border-color: #333;
 font-weight: bold;
 }
 .btn-permalink:hover {
     color: #fff;
-    background-color: #9AAABA;
+    background-color: #0b6094;
     border-color: #333;
 font-weight: bold;
 }
 .btn-fullscreen {
     color: #343a40;
-    background-color: #BCBDC1;
+    background-color: #8482a3;
     border-color: #333;
 font-weight: bold;
 }
 .btn-fullscreen:hover {
     color: #fff;
-    background-color: #BCBDC1;
+    background-color: #8482a3;
     border-color: #333;
 font-weight: bold;
 }
