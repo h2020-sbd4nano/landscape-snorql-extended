@@ -4,7 +4,7 @@ Simple SPARQL explorer based on the original idea of [kurtjx/SNORQL](https://git
 
 The purpose of this project is to develop a fully new UI implementation for Snorql that uses the latest web standards for HTML5, CSS3 and JQuery.
 
-Live Demo of Snorql extended:  https://wikipathways.github.io/snorql-extended
+Live Demo of Snorql extended: https://sbd4nanolandscape.rdf.bigcat-bioinformatics.org/
 
 
 
@@ -22,23 +22,5 @@ Live Demo of Snorql extended:  https://wikipathways.github.io/snorql-extended
 
 - If you have the SPARQL queries directly inside the repo, then use the full the URL of the repo like the following:
 
-  https://github.com/wikipathways/SPARQLQueries
-
-
-
-- But in case the SPARQL queries are inside a folder in the repository, then you need to provide a Github API URL for that folder and that is constructed as follows:
-
-  If the URL of the folder of the queries is this (for example):
-
-  https://github.com/egonw/SARS-CoV-2-Queries/tree/master/sparql
-
-  Then the URL template you should use is:
-
-  https://api.github.com/repos/{OWNER_USER}/{REPOSITORY_NAME}/contents/{FOLDER_PATH}
-
-  And the final URL becomes like this:
-
-  https://api.github.com/repos/egonw/SARS-CoV-2-Queries/contents/sparql
-
-
+  https://github.com/h2020-sbd4nano/LandscapeQueries
 
